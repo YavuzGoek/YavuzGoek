@@ -16,6 +16,8 @@ Meine Erfahrung aus Marketing, CRM und Customer Journeys hilft mir, technische L
 
 ## Ausgewählte Praxis
 
+[Zum ausführlichen KI-Praxisportfolio mit weiteren Fallbeschreibungen](https://github.com/YavuzGoek/portfolio)
+
 ### KI-gestützte Kurzvideo-Produktion
 Wiederholt getesteter lokaler Workflow für Transkription, Schnitt, synchronisierte Untertitel, Motion Graphics und technische Qualitätsprüfung. Mehrere Serienvideos wurden persönlich geprüft und freigegeben. Eine kontrollierte Tabellenanbindung ergänzt die Produktionsdokumentation.
 

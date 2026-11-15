@@ -47,3 +47,13 @@ Mein Beitrag umfasst Prozessdesign, Anforderungen, Toolauswahl, KI-gestützte Um
 Ich interessiere mich für berufliche Aufgaben und Projekte rund um AI Implementation, AI Operations, Automatisierung und KI-Transformation.
 
 Für Unternehmen stehen konkrete Anwendungsfälle, sinnvolle Systemintegration und überprüfbare Ergebnisse im Mittelpunkt meiner Arbeit.
+
+## Social Media
+
+Einblicke in meine KI-Projekte, Cassy, Automatisierungen und die Entwicklung von AI Work Systems:
+
+- [LinkedIn](https://www.linkedin.com/in/yavuz-goek)
+- [YouTube](https://www.youtube.com/channel/UCrHkxG1Ib__jKwbxVMhYgTA)
+- [Instagram](https://www.instagram.com/yavuz_goek)
+- [TikTok](https://www.tiktok.com/@yavuz.goek)
+- [Facebook](https://www.facebook.com/122191839248750338)

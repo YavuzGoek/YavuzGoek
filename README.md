@@ -56,4 +56,4 @@ Einblicke in meine KI-Projekte, Cassy, Automatisierungen und die Entwicklung von
 - [YouTube](https://www.youtube.com/channel/UCrHkxG1Ib__jKwbxVMhYgTA)
 - [Instagram](https://www.instagram.com/yavuz_goek)
 - [TikTok](https://www.tiktok.com/@yavuz.goek)
-- [Facebook](https://www.facebook.com/122191839248750338)
+- [Facebook](https://www.facebook.com/share/19ypfdtSwB/?mibextid=wwXIfr)
